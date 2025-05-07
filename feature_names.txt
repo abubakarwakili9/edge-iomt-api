@@ -1,0 +1,7 @@
+Heart_Rate_bpm
+BatteryRatio
+Temperature_C
+Device_Battery_Level
+Battery_Level
+HealthPressureGap
+Target_Heart_Rate
